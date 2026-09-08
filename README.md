@@ -14,15 +14,15 @@
 
 <!--<div id="top"></div>-->
 
-# KanaDojo かな道場
+# Japanese Learning Dojo 日本語学習道場
 
 <div align="center">
 
-![KanaDojo Banner](https://github.com/user-attachments/assets/56716ee9-9347-4224-9fe2-ef1beb93e286)
+![Japanese Learning Dojo Banner](https://github.com/user-attachments/assets/56716ee9-9347-4224-9fe2-ef1beb93e286)
 
 ![Training](https://github.com/user-attachments/assets/d491708f-2ad3-41c7-9717-dec8a90afd03)
 
-**An aesthetic, minimalist, and highly customizable platform for mastering Japanese, inspired by Duolingo and Monkeytype. Built with Next.js and sponsored by Vercel.**
+**Japanese Learning Dojo is a highly customizable platform for mastering Japanese through kana, kanji, vocabulary, game-like training, progress tracking, and responsive practice. Built with Next.js.**
 
 [![Vercel OSS Program](https://img.shields.io/badge/Vercel-OSS%20Program-black?style=for-the-badge&logo=vercel)](https://vercel.com/open-source-program)
 [![Sponsored by Vercel](https://img.shields.io/badge/Sponsored%20by-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/oss)
@@ -53,7 +53,7 @@ This README is available in multiple languages:
 
 ## About
 
-KanaDojo is an engaging and user-friendly web-based Japanese learning platform that makes mastering Hiragana, Katakana, Kanji, and vocabulary fun and intuitive. Built with a focus on aesthetics, customization, and effective learning, it provides an immersive training environment for Japanese language learners at all levels.
+Japanese Learning Dojo is an engaging and user-friendly web-based Japanese learning platform that makes mastering Hiragana, Katakana, Kanji, and vocabulary fun and intuitive. Built with a focus on aesthetics, customization, and effective learning, it provides an immersive training environment for Japanese language learners at all levels.
 
 ## Contributing
 
